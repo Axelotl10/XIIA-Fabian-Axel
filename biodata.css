@@ -1,0 +1,25 @@
+
+body {
+    padding: 5ch;
+    margin: 0 auto;
+    border: 2px solid black;
+    width: 50%; /* Tabel tidak penuh layar */
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    margin-left: auto;
+    margin-right: 27%;
+    /* Atau singkatnya: margin: 0 auto; */
+    border-collapse: collapse; /* Opsional: agar border tidak ganda */
+}
+
+h1 {
+    text-align: center;
+}
+
